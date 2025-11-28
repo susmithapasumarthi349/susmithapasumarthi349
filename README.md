@@ -62,12 +62,6 @@ I'm an aspiring cloud engineer with a passion for building scalable solutions an
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=susmithapasumarthi349)](https://github.com/susmithapasumarthi349)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susmitha-pasumarthi/)
