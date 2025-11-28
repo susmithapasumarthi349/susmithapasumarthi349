@@ -19,7 +19,7 @@ I'm an aspiring cloud engineer with a passion for building scalable solutions an
 ## 🙋‍♀️ About Me
 
 - 🔭 **Currently working on:** Cloud infrastructure projects and AI applications
-- 🌱 **Currently learning:** Advanced cloud architectures, machine learning, and containerization
+- 🌱 **Currently learning:** Advanced cloud architectures and containerization
 - 👯 **Looking to collaborate on:** Open-source cloud and IoT projects
 - 💬 **Ask me about:** Cloud engineering, Python, AWS, Docker, and building practical projects
 - 📫 **How to reach me:** Check out the connect section below!
