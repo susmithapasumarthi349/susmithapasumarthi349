@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Susmitha Pasumarthi!
 
-> **Cloud Engineer | AI Enthusiast | IoT Explorer | Continuous Learner**
+> **Cloud Engineer | AI Enthusiast | IoT Explorer**
 
 ---
 
